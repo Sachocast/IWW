@@ -222,9 +222,6 @@ public class Partie {
                     (cptCarteDecouverte * cptMultiplicateurDecouverte) +
                     (cptMultiplicateurFinancier * joueur.getFinancier() ) +
                     (cptMultiplicateurGeneral * joueur.getGeneral());
-            System.out.println(ptsBatiments);
-            System.out.println(score);
-            System.out.println(joueur.getEmpire().getNom());
             int ptsEmpire = score - ptsBatiments;
             joueur.getStatistiques().addPtsBatiments(ptsBatiments);
             joueur.getStatistiques().addPtsJetons(joueur.getFinancier()+joueur.getGeneral());

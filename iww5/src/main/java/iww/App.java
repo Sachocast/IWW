@@ -142,7 +142,7 @@ public class App {
             while (multiThreads < 0 || multiThreads >1) {
                 try {
                     System.out.print("Lancer les parties a la suite ou en paralleles ? ");
-                    System.out.print("[0] a la suite [1] en paralleles");
+                    System.out.print("[0] a la suite [1] en paralleles\n");
                     multiThreads = sc.nextInt();
                 } catch (Exception e) {
                     System.out.print("Erreur de saisie\n");
