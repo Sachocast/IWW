@@ -1,0 +1,7 @@
+/.vscode
+*.class
+/.idea
+target/
+*.txt
+*.xlsx
+target/
