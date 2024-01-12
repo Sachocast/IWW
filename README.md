@@ -1,5 +1,7 @@
 # It's a Wonderful World
 
+Ce projet a été fait en équipe de 4. 
+
 _`Début du projet le 25/09/2023`_
 
 🎲
