@@ -6,7 +6,7 @@ _`Début du projet le 25/09/2023`_
 
 🎲
 Reproduction du jeu de plateau It's a Wonderful World en Java dans le cadre d'un projet de développement tutoré
-en L3 MIASH à l'Université Nice Côte d'azure.
+en L3 MIASH à l'Université Nice Côte d'azur.
 
 ## Installation
 
